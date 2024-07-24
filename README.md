@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krithikadh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java and MySQL
+- 👀 I’m interested in creative coding
+- 🌱 I’m currently learning DSA and Full Stack
 - 📫 dhkrithika1114@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Did you know there are over 700 coding languages in use today?
